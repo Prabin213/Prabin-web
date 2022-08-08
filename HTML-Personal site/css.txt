@@ -1,0 +1,6 @@
+selector{property:value;}
+selector are which style i want to change and property is what to change and value
+in css for class and id -class can be used for several items but id should be unique for each item for styles
+-----------------
+in fontsize {em} can be used tochange the font size eg-5.625em
+and {rem} is used because the rem doesnt change as per the body font size it remain same  where ever it has been used 

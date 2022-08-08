@@ -1,0 +1,34 @@
+h1{
+ color: grey;
+ font-size: 150px;
+ border: 5px solid red;
+ border-radius: 50px;
+ border-style: groove;
+}
+hr{
+  border-style: double;
+  border-radius: 30px;
+  border-color: crimson;
+  border-width: thick;
+}
+body{
+  border: 4px solid black;
+  background: pink ;
+  border-radius: 30px;
+  border-spacing: 3px;
+  border-color: red;
+}
+img:hover {
+  background-color: yellow;
+}
+.bacon{
+  background-color: #a12323;}
+  .broccoli{;
+    background-color: #87d987;
+  }
+  .circular{
+    border-radius: 100px;
+  }
+#heading{
+  color: blue;
+}

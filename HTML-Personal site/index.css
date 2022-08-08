@@ -1,0 +1,23 @@
+body{
+  background-color: #EAF6F6;
+}
+h1{
+
+}
+  hr{
+   border-style: none;
+   border-top-style: dotted;
+   border-bottom-style: hidden;
+   border-color: grey;
+   border-width: 5px;
+   width: =5%
+
+  }
+
+ul li {
+    list-style-type: circle;
+}
+
+ol li {
+    list-style-type: square;
+}
